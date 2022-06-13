@@ -1,2 +1,2 @@
 # booksite-Clone
-This is a cloned website from YouTube Channel [Mr. WebDesign]
+This is a psd to code website from [Mr. WebDesign]
